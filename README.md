@@ -1,0 +1,2 @@
+# image
+typora-image
